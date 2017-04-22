@@ -1,0 +1,6 @@
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Дней до дня рождения\Birthday\bin\Debug\Birthday.exe.config
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Дней до дня рождения\Birthday\bin\Debug\Birthday.exe
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Дней до дня рождения\Birthday\bin\Debug\Birthday.pdb
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Дней до дня рождения\Birthday\obj\Debug\Birthday.csprojResolveAssemblyReference.cache
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Дней до дня рождения\Birthday\obj\Debug\Birthday.exe
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Дней до дня рождения\Birthday\obj\Debug\Birthday.pdb
